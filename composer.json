@@ -1,0 +1,8 @@
+{
+    "name": "antonio/trabalho-api-rest",
+    "description": "API Rest usando Slim com GET, POST, PUT e DELETE",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.7"
+    }
+}
